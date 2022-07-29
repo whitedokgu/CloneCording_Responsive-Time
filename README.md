@@ -11,4 +11,4 @@
 
 ## To I Made
 
--  [https://whitedokgu.github.io/CloneCoding_Ostrich/](https://whitedokgu.github.io/CloneCoding_Ostrich/)
+-  [https://whitedokgu.github.io/CloneCoding_Ostrich/](https://whitedokgu.github.io/CloneCording_Responsive-Time/)
